@@ -40,6 +40,6 @@ paste(round(pred, digits = 2), "$")
 
 ========================================================
 
-The application is avalilable at: 
+The application is avalilable at: https://serges.shinyapps.io/Course9Project/ 
 
 Source code is located in the GitHub repo: https://github.com/SergeSm/DevelopingDataProd4
